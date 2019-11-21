@@ -1,0 +1,635 @@
+[1205/103046.050:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.075:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/103046.075:ERROR:exception_snapshot_win.cc(88)] thread ID 8560 not found in process
+[1205/165155.203:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/165155.224:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/165155.224:ERROR:exception_snapshot_win.cc(88)] thread ID 8168 not found in process
+[1205/171956.139:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1205/171956.157:ERROR:exception_snapshot_win.cc(88)] thread ID 9292 not found in process
+[1207/154207.365:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/154207.395:ERROR:exception_snapshot_win.cc(88)] thread ID 7444 not found in process
+[1207/154207.395:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1207/164515.125:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/164515.156:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/164515.156:ERROR:exception_snapshot_win.cc(88)] thread ID 5320 not found in process
+[1207/164515.156:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1210/175809.838:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.856:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.857:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.857:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1210/175809.857:ERROR:exception_snapshot_win.cc(88)] thread ID 9792 not found in process
+[1212/185126.909:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1212/185126.928:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1212/185126.928:ERROR:exception_snapshot_win.cc(88)] thread ID 7096 not found in process
+[1219/171010.667:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1219/171010.749:ERROR:exception_snapshot_win.cc(88)] thread ID 9832 not found in process
+[1219/171010.774:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1220/153935.701:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1220/153935.728:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1220/153935.728:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1220/153935.728:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1220/153935.728:ERROR:exception_snapshot_win.cc(88)] thread ID 11236 not found in process
+[1220/190327.247:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1220/190327.288:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1220/190327.289:ERROR:exception_snapshot_win.cc(88)] thread ID 4112 not found in process
+[1229/111709.691:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.724:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.724:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.724:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.724:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.725:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.725:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.725:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.725:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1229/111709.725:ERROR:exception_snapshot_win.cc(88)] thread ID 11652 not found in process
+[0104/111105.065:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/111105.121:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/111105.122:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/111105.122:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/111105.122:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0104/111105.127:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/111105.127:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/111105.127:ERROR:exception_snapshot_win.cc(88)] thread ID 12716 not found in process
+[0104/112604.039:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/112604.065:ERROR:exception_snapshot_win.cc(88)] thread ID 17940 not found in process
+[0108/175801.948:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0108/175801.968:ERROR:exception_snapshot_win.cc(88)] thread ID 4428 not found in process
+[0109/173025.651:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0109/173025.671:ERROR:exception_snapshot_win.cc(88)] thread ID 9388 not found in process
+[0111/182057.930:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0111/182057.996:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0111/182057.996:ERROR:exception_snapshot_win.cc(88)] thread ID 7504 not found in process
+[0114/130038.453:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0114/130038.659:ERROR:exception_snapshot_win.cc(88)] thread ID 11200 not found in process
+[0114/130038.659:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0114/165648.887:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0114/165648.936:ERROR:exception_snapshot_win.cc(88)] thread ID 10432 not found in process
+[0114/165648.936:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0115/101858.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0115/101858.954:ERROR:exception_snapshot_win.cc(88)] thread ID 10124 not found in process
+[0115/103425.147:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0115/103425.215:ERROR:exception_snapshot_win.cc(88)] thread ID 10080 not found in process
+[0116/124352.587:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.679:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.679:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.680:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0116/124352.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0116/124352.685:ERROR:exception_snapshot_win.cc(88)] thread ID 10160 not found in process
+[0121/135434.136:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0121/135434.241:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0121/135434.241:ERROR:exception_snapshot_win.cc(88)] thread ID 8032 not found in process
+[0123/130751.037:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0123/130751.085:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.086:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.086:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.086:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.086:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.087:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.087:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0123/130751.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.094:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.094:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.094:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/130751.094:ERROR:exception_snapshot_win.cc(88)] thread ID 7428 not found in process
+[0123/135444.614:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0123/135444.672:ERROR:exception_snapshot_win.cc(88)] thread ID 14136 not found in process
+[0124/165228.994:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0124/165229.053:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.053:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.054:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0124/165229.059:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.059:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.059:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.059:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.059:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.059:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/165229.059:ERROR:exception_snapshot_win.cc(88)] thread ID 6728 not found in process
+[0124/185401.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0124/185401.711:ERROR:exception_snapshot_win.cc(88)] thread ID 10000 not found in process
+[0124/185401.711:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0125/125816.450:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0125/125816.478:ERROR:exception_snapshot_win.cc(88)] thread ID 11000 not found in process
+[0128/135739.622:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/135739.674:ERROR:exception_snapshot_win.cc(88)] thread ID 7692 not found in process
+[0128/181947.268:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0128/181947.293:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.293:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.293:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0128/181947.295:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.295:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.296:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.296:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.296:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.296:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.296:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0128/181947.296:ERROR:exception_snapshot_win.cc(88)] thread ID 5964 not found in process
+[0130/144849.776:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0130/144849.806:ERROR:exception_snapshot_win.cc(88)] thread ID 5332 not found in process
+[0130/144849.806:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0131/124404.989:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0131/124405.046:ERROR:exception_snapshot_win.cc(88)] thread ID 14276 not found in process
+[0131/124405.046:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0204/110137.918:ERROR:process_info.cc(359)] UncheckedAllocate
+[0204/131407.044:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0204/131407.110:ERROR:exception_snapshot_win.cc(88)] thread ID 10520 not found in process
+[0204/131407.110:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0205/123516.052:ERROR:process_info.cc(359)] UncheckedAllocate
+[0207/130636.412:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0207/130636.443:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0207/130636.443:ERROR:exception_snapshot_win.cc(88)] thread ID 12772 not found in process
+[0211/155143.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0211/155143.718:ERROR:exception_snapshot_win.cc(88)] thread ID 11276 not found in process
+[0212/134131.753:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/134131.816:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/134131.816:ERROR:exception_snapshot_win.cc(88)] thread ID 11252 not found in process
+[0212/134131.816:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0215/161234.485:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0215/161635.586:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0216/161231.983:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0216/161633.044:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0217/152227.707:ERROR:process_info.cc(359)] UncheckedAllocate
+[0217/152729.703:ERROR:process_info.cc(359)] UncheckedAllocate
+[0217/161232.848:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0217/161633.932:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0218/141145.150:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0218/141145.201:ERROR:exception_snapshot_win.cc(88)] thread ID 12148 not found in process
+[0219/073002.256:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/073002.304:ERROR:exception_snapshot_win.cc(88)] thread ID 10456 not found in process
+[0219/114026.350:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0219/114026.457:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.457:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.457:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.458:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.458:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.458:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.458:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.458:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0219/114026.460:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.460:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.460:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.460:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.460:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.460:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/114026.460:ERROR:exception_snapshot_win.cc(88)] thread ID 9776 not found in process
+[0219/181611.622:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0219/181611.663:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.663:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.663:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.663:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0219/181611.667:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.667:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.668:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.668:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.668:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.668:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/181611.668:ERROR:exception_snapshot_win.cc(88)] thread ID 5400 not found in process
+[0221/120726.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0221/120726.841:ERROR:exception_snapshot_win.cc(88)] thread ID 11636 not found in process
+[0221/154355.548:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0221/154355.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0221/154355.651:ERROR:exception_snapshot_win.cc(88)] thread ID 12948 not found in process
+[0221/155314.664:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0221/155314.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0221/155314.726:ERROR:exception_snapshot_win.cc(88)] thread ID 7700 not found in process
+[0222/100842.271:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0222/100842.615:ERROR:process_info.cc(545)] ReadProcessData failed
+[0222/100842.615:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0222/102451.273:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0222/102451.338:ERROR:exception_snapshot_win.cc(88)] thread ID 2296 not found in process
+[0222/102451.338:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0222/170340.443:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0222/170340.474:ERROR:exception_snapshot_win.cc(88)] thread ID 12128 not found in process
+[0225/102154.167:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0225/102154.233:ERROR:exception_snapshot_win.cc(88)] thread ID 13864 not found in process
+[0301/103400.491:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/103400.593:ERROR:exception_snapshot_win.cc(88)] thread ID 10020 not found in process
+[0301/103400.594:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0301/153306.321:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/153306.410:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/153306.441:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/153306.443:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/153306.447:ERROR:exception_snapshot_win.cc(88)] thread ID 8212 not found in process
+[0301/165941.768:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/165941.953:ERROR:exception_snapshot_win.cc(88)] thread ID 15268 not found in process
+[0301/165941.986:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0301/170748.255:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/170748.314:ERROR:exception_snapshot_win.cc(88)] thread ID 1692 not found in process
+[0304/125310.205:ERROR:process_info.cc(359)] UncheckedAllocate
+[0304/134607.618:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0304/134607.682:ERROR:exception_snapshot_win.cc(88)] thread ID 6556 not found in process
+[0304/134607.683:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0305/122023.156:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0305/122023.308:ERROR:exception_snapshot_win.cc(88)] thread ID 9100 not found in process
+[0305/122023.309:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0306/110931.926:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0306/110932.036:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0306/110932.039:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0306/110932.039:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0306/110932.040:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0306/110932.076:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0306/110932.077:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0306/110932.079:ERROR:exception_snapshot_win.cc(88)] thread ID 13748 not found in process
+[0306/110932.112:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0307/175319.609:ERROR:process_info.cc(359)] UncheckedAllocate
+[0308/083719.757:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/083719.807:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/083719.813:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/083719.828:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/083719.834:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/083719.843:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/083719.887:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/083719.888:ERROR:exception_snapshot_win.cc(88)] thread ID 10236 not found in process
+[0308/083719.889:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0308/123247.647:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/123247.700:ERROR:exception_snapshot_win.cc(88)] thread ID 16084 not found in process
+[0308/123247.701:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0308/130903.321:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/130903.372:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/130903.376:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/130903.378:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/130903.381:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.398:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/130903.398:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.399:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.399:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.399:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.411:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.412:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.412:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.413:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/130903.413:ERROR:exception_snapshot_win.cc(88)] thread ID 12280 not found in process
+[0308/130903.413:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0308/194833.384:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/194833.462:ERROR:exception_snapshot_win.cc(88)] thread ID 6296 not found in process
+[0308/204309.351:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0308/204309.479:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/204309.494:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0308/204309.494:ERROR:exception_snapshot_win.cc(88)] thread ID 2364 not found in process
+[0308/204309.494:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0313/175203.497:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0313/175203.542:ERROR:exception_snapshot_win.cc(88)] thread ID 12092 not found in process
+[0313/175203.542:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0314/113209.021:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/113209.404:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0314/113209.410:ERROR:exception_snapshot_win.cc(88)] thread ID 8216 not found in process
+[0314/113209.410:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0314/164156.767:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/164156.841:ERROR:exception_snapshot_win.cc(88)] thread ID 9044 not found in process
+[0314/164156.842:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0314/171735.720:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/171735.850:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/171735.850:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/171735.851:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/171735.851:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0314/171735.899:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/171735.937:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/171735.942:ERROR:exception_snapshot_win.cc(88)] thread ID 12532 not found in process
+[0315/135744.069:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0315/135744.106:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0315/135744.106:ERROR:exception_snapshot_win.cc(88)] thread ID 8420 not found in process
+[0315/143702.363:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/144026.064:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/144151.415:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/144202.095:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/154734.208:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/155315.373:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/164816.564:ERROR:process_info.cc(359)] UncheckedAllocate
+[0320/090559.451:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0320/090559.491:ERROR:exception_snapshot_win.cc(88)] thread ID 12552 not found in process
+[0321/082723.548:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/082723.609:ERROR:exception_snapshot_win.cc(88)] thread ID 7660 not found in process
+[0321/082723.609:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0322/112203.647:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0322/112203.681:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0322/112203.681:ERROR:exception_snapshot_win.cc(88)] thread ID 10012 not found in process
+[0322/142536.717:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0322/142536.759:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0322/142536.759:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0322/142536.759:ERROR:exception_snapshot_win.cc(88)] thread ID 10284 not found in process
+[0322/145930.491:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0322/145930.582:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0322/145930.583:ERROR:exception_snapshot_win.cc(88)] thread ID 3996 not found in process
+[0324/090421.601:ERROR:process_info.cc(359)] UncheckedAllocate
+[0324/090421.606:ERROR:process_info.cc(359)] UncheckedAllocate
+[0324/090421.608:ERROR:process_info.cc(359)] UncheckedAllocate
+[0324/090457.629:ERROR:process_info.cc(359)] UncheckedAllocate
+[0324/090457.635:ERROR:process_info.cc(359)] UncheckedAllocate
+[0324/090457.696:ERROR:process_memory_win.cc(73)] ReadMemory at 0x13fb60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.725:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0324/090457.725:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77790000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.725:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0324/090457.725:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77670000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.725:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\kernel32.dll
+[0324/090457.725:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd630000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.725:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\KERNELBASE.dll
+[0324/090457.725:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fee7a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.725:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\72.0.3626.121\chrome_elf.dll
+[0324/090457.725:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefcfa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.725:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0324/090457.726:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7feff960000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.726:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\msvcrt.dll
+[0324/090457.726:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefe140000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.726:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0324/090457.726:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7feff100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.726:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\SHLWAPI.dll
+[0324/090457.726:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7feff090000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.726:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0324/090457.726:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77570000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.726:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\USER32.dll
+[0324/090457.726:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd700000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.726:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\LPK.dll
+[0324/090457.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7feff5d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.727:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\USP10.dll
+[0324/090457.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7feff880000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.727:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\ADVAPI32.dll
+[0324/090457.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd710000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.727:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0324/090457.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefef20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.727:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\RPCRT4.dll
+[0324/090457.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fef9710000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.727:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0324/090457.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd370000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.727:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\USERENV.dll
+[0324/090457.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd2f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.727:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\profapi.dll
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefb230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7feff060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd7f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd190000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files\Citrix\System32\MfApHook64.dll
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd0b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files\Citrix\ICAService\picaFullScreenHookX64.dll
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefcc10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files\Citrix\ICAService\ShellHook64.dll
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefca90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files\Citrix\ICAService\SCardHook64.dll
+[0324/090457.728:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefca60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files\Citrix\ICAService\cxinjime64.dll
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x30b000 of 20480 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x491320 of 6772 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x492da0 of 1012 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4933a8 of 550 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4935d0 of 118 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x493648 of 1422 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x493bd8 of 118 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x493c50 of 96 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x493cc0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x493d50 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.732:ERROR:process_memory_win.cc(73)] ReadMemory at 0x493e40 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x493f58 of 126 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x494240 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x494290 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4943b0 of 68 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x494400 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4956b0 of 154 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x495760 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x495ee0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x495f30 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x496170 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4961c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x496330 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x496380 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b82a0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b8f00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b8ff0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.733:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9040 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9130 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9180 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9270 of 54 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b92b0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b93a0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b93f0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9510 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9560 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b95b0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9600 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9650 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b96a0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b96f0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9740 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4b9790 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.734:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4ba4e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4ba5d0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4ba6c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4ba800 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb120 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb210 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb300 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb3f0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb4e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb5d0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb6c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb7b0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb8a0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bb990 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4bdfd0 of 104 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4c4020 of 94 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.735:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4cc0c0 of 120 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4ce960 of 100 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4d91a0 of 100 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0xf73140 of 536 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7777b2a8 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x77797bc8 of 18 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x777f9b4a of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x778b80d8 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x778c2dc0 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x778c2e40 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x13fb60000 of 384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x13fcab010 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fee7a12c9a of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fefd63bd6d of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fffffda000 of 852 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fffffde000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0324/090457.738:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0325/132411.294:ERROR:process_info.cc(359)] UncheckedAllocate
+[0325/135031.485:ERROR:process_info.cc(359)] UncheckedAllocate
+[0325/141045.139:ERROR:process_info.cc(359)] UncheckedAllocate
+[0326/122355.194:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0326/122355.240:ERROR:exception_snapshot_win.cc(98)] thread ID 11012 not found in process
+[0326/122355.240:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0327/203320.265:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0327/203320.385:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0327/203320.385:ERROR:exception_snapshot_win.cc(98)] thread ID 5720 not found in process
+[0327/203320.385:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0328/005604.444:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0328/005604.484:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0328/005604.484:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0328/005604.484:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0328/125516.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0328/125516.825:ERROR:exception_snapshot_win.cc(98)] thread ID 8968 not found in process
+[0328/125516.825:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0328/132930.859:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0328/132930.976:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0328/132930.977:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0328/132930.977:ERROR:exception_snapshot_win.cc(98)] thread ID 12400 not found in process
+[0329/125258.210:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0329/125258.251:ERROR:exception_snapshot_win.cc(98)] thread ID 1020 not found in process
+[0329/125258.251:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0329/134537.598:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0329/134537.654:ERROR:exception_snapshot_win.cc(98)] thread ID 15488 not found in process
+[0329/134537.655:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0331/114449.727:ERROR:process_info.cc(359)] UncheckedAllocate
+[0402/194011.650:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0402/194011.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0402/194011.711:ERROR:exception_snapshot_win.cc(98)] thread ID 408 not found in process
+[0402/194011.711:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0402/225624.999:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0402/225625.062:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0402/225625.065:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0402/225625.065:ERROR:exception_snapshot_win.cc(98)] thread ID 5988 not found in process
+[0402/225625.065:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0408/071609.905:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0408/071609.940:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0408/071609.940:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0408/145240.470:ERROR:process_info.cc(359)] UncheckedAllocate
+[0409/101420.339:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0409/101420.410:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0409/101420.410:ERROR:exception_snapshot_win.cc(98)] thread ID 5320 not found in process
+[0409/101420.410:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0409/154519.097:ERROR:process_info.cc(359)] UncheckedAllocate
+[0409/154524.109:ERROR:process_info.cc(359)] UncheckedAllocate
+[0409/154529.140:ERROR:process_info.cc(359)] UncheckedAllocate
+[0409/154933.001:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0410/133133.874:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0410/133133.897:ERROR:exception_snapshot_win.cc(98)] thread ID 12312 not found in process
+[0410/135015.872:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0410/135015.902:ERROR:exception_snapshot_win.cc(98)] thread ID 12780 not found in process
+[0410/135015.902:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0410/170344.237:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0410/170344.310:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0410/170344.310:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0410/170344.315:ERROR:exception_snapshot_win.cc(98)] thread ID 11424 not found in process
+[0410/170344.316:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0410/171143.670:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0410/171143.702:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0410/171143.702:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0410/171143.702:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0426/152732.380:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0426/152732.417:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.417:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.417:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.417:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0426/152732.420:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.420:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.420:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.420:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.421:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.421:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.421:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0426/152732.421:ERROR:exception_snapshot_win.cc(98)] thread ID 2400 not found in process
+[0429/134118.542:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0429/134118.598:ERROR:exception_snapshot_win.cc(98)] thread ID 12820 not found in process
+[0520/124324.595:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0520/124324.628:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0520/124324.630:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0520/124324.630:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0520/124324.630:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0520/124324.631:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0520/124324.631:ERROR:process_memory_win.cc(73)] ReadMemory at 0x45cd6c0 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0520/124324.631:ERROR:exception_snapshot_win.cc(195)] EXCEPTION_POINTERS read failed
+[0520/124324.631:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0524/085833.669:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0524/085833.695:ERROR:exception_snapshot_win.cc(98)] thread ID 5012 not found in process
+[0604/155639.994:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0604/155640.029:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.030:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.030:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0604/155640.032:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.032:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.032:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.032:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.032:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.032:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.032:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0604/155640.032:ERROR:exception_snapshot_win.cc(98)] thread ID 11380 not found in process
+[0604/155640.032:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0606/084841.162:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0606/084841.219:ERROR:exception_snapshot_win.cc(98)] thread ID 14396 not found in process
+[0606/084841.219:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0607/182143.750:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0607/182143.814:ERROR:exception_snapshot_win.cc(98)] thread ID 11448 not found in process
+[0607/182143.814:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0609/175841.532:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/175841.592:ERROR:exception_snapshot_win.cc(98)] thread ID 15032 not found in process
+[0609/175841.592:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0617/160710.979:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0617/160711.076:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0617/160711.076:ERROR:exception_snapshot_win.cc(98)] thread ID 22284 not found in process
+[0618/161847.459:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0618/161847.495:ERROR:exception_snapshot_win.cc(98)] thread ID 11060 not found in process
+[0623/190253.066:ERROR:process_info.cc(359)] UncheckedAllocate
+[0623/191536.948:ERROR:process_info.cc(359)] UncheckedAllocate
+[0623/191536.949:ERROR:process_info.cc(359)] UncheckedAllocate
+[0623/233359.525:ERROR:process_info.cc(359)] UncheckedAllocate
+[0626/231026.192:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0626/231026.260:ERROR:exception_snapshot_win.cc(98)] thread ID 12380 not found in process
+[0626/231026.260:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0713/184752.766:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0713/184752.800:ERROR:exception_snapshot_win.cc(98)] thread ID 1084 not found in process
+[0715/113029.792:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0715/113029.846:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0715/113029.846:ERROR:exception_snapshot_win.cc(98)] thread ID 11084 not found in process
+[0715/113029.846:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0717/193841.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0717/193841.449:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0717/193841.452:ERROR:exception_snapshot_win.cc(98)] thread ID 11044 not found in process
+[0717/193841.452:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0813/125906.365:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0813/125906.381:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0813/125906.381:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0813/125906.381:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0822/152233.234:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0822/152233.250:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0822/152233.250:ERROR:exception_snapshot_win.cc(98)] thread ID 9596 not found in process
+[0830/122703.984:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0830/122704.041:ERROR:exception_snapshot_win.cc(98)] thread ID 1876 not found in process
+[0905/134945.558:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/134945.584:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0905/134945.588:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/134945.588:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/134945.588:ERROR:exception_snapshot_win.cc(98)] thread ID 4416 not found in process
+[0906/140241.947:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/140241.965:ERROR:exception_snapshot_win.cc(98)] thread ID 13240 not found in process
+[0916/160118.618:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0916/160118.641:ERROR:exception_snapshot_win.cc(98)] thread ID 11936 not found in process
+[0916/160118.641:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
